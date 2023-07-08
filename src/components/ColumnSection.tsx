@@ -12,7 +12,7 @@ function ColumnSection({
   description: string;
 }) {
   const base =
-    "first:rounded-l-xl last:rounded-r-xl p-10 h-full text-white/75 grid grid-cols-1 gap-10 xl:gap-20 ";
+    "first:rounded-t-xl last:rounded-b-xl xl:first:rounded-tr-none xl:last:rounded-bl-none  xl:first:rounded-l-xl xl:last:rounded-r-xl p-10 h-full text-white/75 grid grid-cols-1 gap-10 xl:gap-20 ";
   const variants: {
     [color: string]: string;
   } = {
