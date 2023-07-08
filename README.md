@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-react-tailwindcss-VmkHiZby_j](https://www.frontendmentor.io/solutions/3column-preview-card-component-react-tailwindcss-VmkHiZby_j)
 - Live Site URL: [https://michaellei-3-column-card.netlify.app/](https://michaellei-3-column-card.netlify.app/)
 
 ## Built with
