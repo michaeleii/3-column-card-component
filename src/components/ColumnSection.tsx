@@ -11,7 +11,8 @@ function ColumnSection({
   title: string;
   description: string;
 }) {
-  const base = "p-10 h-full text-white/75 grid grid-cols-1 gap-10 xl:gap-20 ";
+  const base =
+    "first:rounded-l-xl last:rounded-r-xl p-10 h-full text-white/75 grid grid-cols-1 gap-10 xl:gap-20 ";
   const variants: {
     [color: string]: string;
   } = {
